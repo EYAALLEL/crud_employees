@@ -1,0 +1,11 @@
+<div class="container" *ngIf="employee">
+    <h2>Employee Details</h2>
+    <div class="card">
+      <div class="card-body">
+        <p><strong>First Name:</strong> {{employee.firstName}}</p>
+        <p><strong>Last Name:</strong> {{employee.lastName}}</p>
+        <p><strong>Email:</strong> {{employee.emailId}}</p>
+      </div>
+    </div>
+    <button class="btn btn-secondary mt-3" (click)="goToList()">Back to List</button>
+  </div>

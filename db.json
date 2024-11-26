@@ -1,0 +1,32 @@
+{
+  "employees": [
+    {
+      "id": "2",
+      "firstName": "jassem",
+      "lastName": "Smith",
+      "emailId": "jane.smith@example.com",
+      "active": true
+    },
+    {
+      "id": "3",
+      "firstName": "Mike",
+      "lastName": "Johnson",
+      "emailId": "mike.johnson@example.com",
+      "active": false
+    },
+    {
+      "id": "db7c",
+      "firstName": "eya",
+      "lastName": "allel",
+      "emailId": "alleleya93@gmail.com",
+      "active": true
+    },
+    {
+      "id": "cb12",
+      "firstName": "Amine",
+      "lastName": "Chrigui",
+      "emailId": "chriguimohamedamine58@gmail.com",
+      "active": false
+    }
+  ]
+}
